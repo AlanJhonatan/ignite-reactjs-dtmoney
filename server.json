@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-04-22T18:18:06.361Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso de Reactjs Advanced Plus",
+      "type": "outcome",
+      "category": "Cursos",
+      "price": 1980,
+      "createdAt": "2023-03-22T18:18:06.361Z"
     }
   ]
 }
