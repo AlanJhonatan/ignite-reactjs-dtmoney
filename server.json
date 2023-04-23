@@ -17,12 +17,20 @@
       "createdAt": "2023-04-22T18:18:06.361Z"
     },
     {
-      "id": 3,
-      "description": "Curso de Reactjs Advanced Plus",
-      "type": "outcome",
-      "category": "Cursos",
-      "price": 1980,
-      "createdAt": "2023-03-22T18:18:06.361Z"
+      "description": "Transação 1",
+      "price": 200,
+      "category": "Tipo 1",
+      "type": "income",
+      "createdAt": "2023-04-23T00:09:13.390Z",
+      "id": 3
+    },
+    {
+      "description": "Transação 2",
+      "price": 2000,
+      "category": "Serviços",
+      "type": "income",
+      "createdAt": "2023-04-23T00:20:44.777Z",
+      "id": 4
     }
   ]
 }
